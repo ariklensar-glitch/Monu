@@ -17,7 +17,7 @@ Apne rozana ke kaamo ko manage karne ke liye ek command-line based list.
 **Concepts:** Lists, List Methods (`append`, `remove`), Loops.
 
 4. Password Generator
-Ek strong aur random password generate karne wala program. (Coming Soon!)
+Ek strong aur random password generate karne wala program. 
 
 5. Rock Paper Scissors
 Computer ke khilaaf ek classic game. (Coming Soon!)
